@@ -41,7 +41,7 @@ end)
 setreadonly(mt, true)
 
 --Var
-local ESP = loadstring(game:HttpGet("https://raw.githubusercontent.com/HyperNIt3/Backups/main/SexHubV2/ESPO.lua "))()
+local ESP = loadstring(game:HttpGet("https://raw.githubusercontent.com/HyperNIt3/Backups/main/SexHubV2/ESPO.lua"))()
 
 -- Synapse Compatibilities
 if syn then
